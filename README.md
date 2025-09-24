@@ -1,3 +1,5 @@
+![AGI Autonomous Thinking Module](banner.jpg)
+
 # AGI Autonomous Thinking Module
 
 **Author:** Pankaj Verma (India)  
